@@ -6,9 +6,8 @@ import ProfileButton from "./ProfileButton";
 import LoginFormModal from "../LoginFormModal";
 import SignupFormModal from "../SignupFormModal";
 import * as sessionActions from "../../store/session";
-import WineModal from "../WineModal";
 import "./Navigation.css";
-import { postWine } from "../../store/wines";
+
 
 
 // let wineDiv;
